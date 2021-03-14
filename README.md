@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+See this project which was uploaded to [Codepen](https://codepen.io/fajriawansu/pen/qBqvdwB)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
